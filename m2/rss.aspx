@@ -60,7 +60,7 @@
     <title>KidOO</title>
     <link>http://example.com/sample-link</link>
     <imageurl>http://example.com/sample-image.jpg</imageurl>
-    <description>Hi I'm Mila And my magic pet Morphle can morph into anything i want</description>
+    <description>nadie mira este canal</description>
     <category>Sample Category</category>
   </item>
     <item>
