@@ -4,35 +4,35 @@
     <title>Gata Unicornio Mariposa Arcoiris</title>
     <link>http://example.com/sample-link</link>
     <imageurl>http://example.com/images/leafy.jpg</imageurl>
-    <description>Sample description text.</description>
+    <description>Sus poderes son geniales y su nombre es felicity.</description>
     <category>Sample Category</category>
   </item>
 <item>
     <title>Bob Leponge</title>
     <link>http://example.com/sample-link</link>
     <imageurl>http://example.com/sample-image.jpg</imageurl>
-    <description>Sample description text.</description>
+    <description>EN NICKGOONS.</description>
     <category>Sample Category</category>
   </item>
   <item>
     <title>Me lo cifro y me lo programo</title>
     <link>http://example.com/sample-link</link>
     <imageurl>http://example.com/sample-image.jpg</imageurl>
-    <description>Sample description text.</description>
+    <description>Soriana vende malos productos.</description>
     <category>Sample Category</category>
   </item>
   <item>
     <title>Super Liga De Conejos</title>
     <link>http://example.com/sample-link</link>
     <imageurl>http://example.com/sample-image.jpg</imageurl>
-    <description>Sample description text.</description>
+    <description>pero no de pendejos verdad.</description>
     <category>Sample Category</category>
   </item>
     <item>
     <title>El Omero Dou Serbesa</title>
     <link>http://example.com/sample-link</link>
     <imageurl>http://example.com/sample-image.jpg</imageurl>
-    <description>Sample description text.</description>
+    <description>dou dou dou zerbeza</description>
     <category>Sample Category</category>
   </item>
     <item>
@@ -46,28 +46,28 @@
     <title>Nicktoons</title>
     <link>http://example.com/sample-link</link>
     <imageurl>http://example.com/sample-image.jpg</imageurl>
-    <description>Sample description text.</description>
+    <description>Me muero me globalizo.</description>
     <category>Sample Category</category>
   </item>
   <item>
     <title>Discovery Kids Mobile</title>
     <link>http://example.com/sample-link</link>
     <imageurl>http://example.com/sample-image.jpg</imageurl>
-    <description>Sample description text.</description>
+    <description>Unmobiles your Discovery.</description>
     <category>Sample Category</category>
   </item>
   <item>
     <title>KidOO</title>
     <link>http://example.com/sample-link</link>
     <imageurl>http://example.com/sample-image.jpg</imageurl>
-    <description>Sample description text.</description>
+    <description>Hi! I'm Mila! And my magic pet Morphle, can morph into anything i want!</description>
     <category>Sample Category</category>
   </item>
     <item>
     <title>El Omero Dou Serbesa 2 - La Familia Sinso Versus La Familia De Peppa Pig</title>
     <link>http://example.com/sample-link</link>
     <imageurl>http://example.com/sample-image.jpg</imageurl>
-    <description>Sample description text.</description>
+    <description>QUE LA BATALLA COMIENCE</description>
     <category>Sample Category</category>
   </item>
 </items>
